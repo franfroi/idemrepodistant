@@ -1,6 +1,10 @@
 
 test4.txt
+test5.txt
 *.pdf
 *.jpg
 images/*.jpg
 #commentaires 
+.DS_store
+#pour les ide comme phpstorm
+.idea/
