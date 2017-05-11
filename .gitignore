@@ -1,0 +1,6 @@
+
+test4.txt
+*.pdf
+*.jpg
+images/*.jpg
+#commentaires 
